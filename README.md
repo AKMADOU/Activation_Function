@@ -67,7 +67,7 @@ $ python3 main.py -ac swish -n 30 -i True
 
 
 # Contributors
-<img src="/Users/akmadou/Documents/Activation_function/DNN_Activations_Functions/Beamer/mi.jpeg" width="150" height="150"> 
+<img src="/Users/akmadou/Downloads/Function_activation/Beamer/mi.jpeg" width="150" height="150"> 
 <!-- | <img src="https://avatars.githubusercontent.com/u/72751041?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/98966969?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/99017712?v=4" width="100" height="100"> -->
 ------|-----|------|------
 [ADOU Kouamé Mathurin]
